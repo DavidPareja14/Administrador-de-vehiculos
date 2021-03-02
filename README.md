@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ADMINISTRADOR DE VEHÍCULOS :blue_car: :tractor: :bus: :motorcycle:
 Con el fin de desarrollar el proyecto del curso Laboratorio de Software impartido en la Universidad Tecnológica de Pereira, se procede a realizar el administrador de vehículos, el cual, es un aplicativo móvil que le permite a un usuario realizar varias operaciones como:
 
@@ -33,3 +34,7 @@ El archivo principal es main.py
 Este proyecto fue realizado en equipo, Diana Batero y Felipe Marin contribuyeron significativamente. Todo lo que está en este repositorio yo lo he realizado, pero esto es solo la parte visual, se pueden agregar datos, pero es solo como una prueba. Para tener el proyecto completo, recomiendo visitar a [Jofemago](https://github.com/Jofemago/Administrador_Vehiculos). Felipe se ha encargado de realizar la conexión con la base de datos y también, que el aplicativo pueda ser funcional en un teléfono móvil.
 
 En el archivo ventanaGPS.py se deben poner las credenciales para utilizar Foursquare, el cual me ha brindado acceso a su servicio con el fin de mostrar los lugares cercanos en donde me encuentro, los lugares pueden ser restaurantes, parqueaderos, hoteles, etc. Las credenciales se ubican en la línea 136 y 137.
+=======
+# Administrador-de-vehiculos
+Es un aplicativo móvil que permite la gestión de los vehículos de un usuario.
+>>>>>>> 8dd20b32b57afc07b728f9bfa37724e1e44da4fb
